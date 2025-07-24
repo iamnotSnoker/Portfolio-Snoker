@@ -27,6 +27,7 @@ Desde entonces, he participado en:
 ## Clientes y Colaboradores
 
 He trabajado como desarrollador independiente para:  
+- **ElRichMC** 
 - **Shadoune666**  
 - **Suzyrox**  
 - **Mayichi**  
@@ -35,7 +36,6 @@ He trabajado como desarrollador independiente para:
 - **Alan2k2**  
 - **Papitastv**  
 - **NiaLakshart**  
-- **ElRichMC**  
 - Y otras comunidades y creadores
 
 ---
