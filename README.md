@@ -117,4 +117,3 @@ He trabajado como desarrollador independiente para:
 Si deseas colaborar, contratarme o simplemente charlar sobre proyectos creativos, puedes contactarme a través de:
 
 - **Discord**: `xocke`  
-- *(Opcional: añade correo o redes si lo deseas)*  
