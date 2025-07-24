@@ -56,7 +56,7 @@ He trabajado como desarrollador independiente para:
 ## Tecnologías y Lenguajes
 
 ### Lenguajes de Programación
-- Java (12 años de experiencia)  
+- Java (más de 5 años de experiencia)  
 - Python  
 - SQL / PLSQL / MongoDB  
 - C#  
