@@ -109,3 +109,12 @@ He trabajado como desarrollador independiente para:
 
 > "Me apasiona explorar nuevas tecnologías, compartir conocimientos y crear experiencias inolvidables dentro y fuera de Minecraft.  
 > Mi objetivo es seguir desarrollando proyectos con impacto real en comunidades digitales, combinando creatividad, técnica y seguridad."
+
+---
+
+## Contacto
+
+Si deseas colaborar, contratarme o simplemente charlar sobre proyectos creativos, puedes contactarme a través de:
+
+- **Discord**: `xocke`  
+- *(Opcional: añade correo o redes si lo deseas)*  
