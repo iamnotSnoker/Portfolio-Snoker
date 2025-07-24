@@ -76,7 +76,7 @@ He trabajado como desarrollador independiente para:
 
 ## Ciberseguridad
 
-- Estudiante de **Ciberseguridad e Inteligencia Artificial (Grado Universitario)**  
+- Estudiante de **Ciberseguridad e Inteligencia Artificial**  
 - Práctica activa desde **2013**, motivado por los conflictos digitales en **2b2t**  
 - Experiencia práctica en:
   - Explotación de vulnerabilidades (como **Log4j**)  
