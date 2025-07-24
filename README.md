@@ -1,6 +1,9 @@
-# PORTFOLIO
+# PORTFOLIO  
 ## Snoker / xocke  
 **Desarrollador Minecraft | Programador Java | Especialista en Ciberseguridad | Apasionado por la innovación**
+
+> *"Me apasiona explorar nuevas tecnologías, compartir conocimientos y crear experiencias inolvidables dentro y fuera de Minecraft.  
+> Mi objetivo es seguir desarrollando proyectos con impacto real en comunidades digitales, combinando creatividad, técnica y seguridad."*
 
 ---
 
@@ -102,13 +105,6 @@ He trabajado como desarrollador independiente para:
 - Chiletian  
 - Ayuntamiento de Zaragoza (España)  
 - Como freelance y desarrollador independiente
-
----
-
-## Filosofía y Visión
-
-> "Me apasiona explorar nuevas tecnologías, compartir conocimientos y crear experiencias inolvidables dentro y fuera de Minecraft.  
-> Mi objetivo es seguir desarrollando proyectos con impacto real en comunidades digitales, combinando creatividad, técnica y seguridad."
 
 ---
 
